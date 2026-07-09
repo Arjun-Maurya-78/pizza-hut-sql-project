@@ -153,3 +153,13 @@ ORDER BY order_hour;
 - Subqueries and derived tables
 - Window functions (`RANK() OVER (PARTITION BY ...)`, running totals with `SUM() OVER`)
 - Translating business questions into SQL and business insights back out
+
+## 🤝 Connect With Me
+
+If you found this project useful, please consider giving it a ⭐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-maurya78)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+
+> 💬 Open to feedback, collaboration, and data analytics discussions!
